@@ -1,5 +1,5 @@
 import os
 
 class Config:
-    SQLALCHEMY_DATABASE_URI = 'postgresql://testdb_fwms_user:MclrHbdtGttpwx7NvXqN286mtg4LfEgD@dpg-crue83jv2p9s73epvrf0-a/testdb_fwms'
+    SQLALCHEMY_DATABASE_URI = 'postgresql://base_datos_2_user:OKu4d2EKBUi9NMOsyknkUWn7QGAj0ZPc@dpg-cs8180q3esus73conma0-a/base_datos_2'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
